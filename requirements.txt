@@ -1,0 +1,5 @@
+astropy
+astroquery
+fastapi
+matplotlib
+uvicorn
